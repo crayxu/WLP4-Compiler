@@ -1,5 +1,5 @@
 # WLP4-Compiler
-A compiler of WLP4, which is the subset of C. If you are interested in the source code, please contact me.
+A compiler of WLP4, which is the subset of C. Due to the school policy, if you are interested in the source code, please contact me.
 
 - WLP4 = “Waterloo, Language, Plus, Pointers, Plus, Procedures”
 - [WLP4 Language Tutorial](https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4tutorial.html)
